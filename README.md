@@ -1,26 +1,12 @@
 # Praesto — AI-Powered Multi-Asset Trading
-Praesto is a trading platform where users can trade **spot, perpetuals, options and futures with leverage** across **crypto, forex and synthetic/tokenized stocks** — in one place.
 
-The native token **$PRAESTO** powers:
-- trading fee discounts
-- AI-assisted and AI-automated trading
-- staking → unlock auto-trading
-- governance over listings, risk and treasury
-- buyback-and-distribute from platform revenue
-
-👉 See the full details in [`WHITEPAPER.md`](./WHITEPAPER.md).
+Praesto is a trading platform for spot, perpetuals, options and futures with leverage, covering crypto, forex and synthetic stocks. The native token **$PRAESTO** powers fee discounts, AI access, staking, governance and the unique Stake-to-Autotrade feature.
 
 ## Key Features
-- Multi-market: crypto, forex, synthetic equities
-- Multi-product: spot, perps, options, futures
-- AI integrated: signals, win-probability, risk hints
-- Stake-to-Autotrade: lock PRAESTO → let AI trade for you
-- Value capture: trading & liquidation fees → buy back PRAESTO
+- Trade crypto, forex and stocks in one place
+- AI integrated for probability-based trading
+- Stake-to-Autotrade (let AI trade for you)
+- Fee share + buyback & distribute to stakers
+- DAO-governed listings, risk and treasury
 
-## Token
-- Name: Praesto
-- Ticker: $PRAESTO
-- Max Supply: 7,000,000,000
-
-## License
-MIT
+See the full whitepaper in `WHITEPAPER.md`.
